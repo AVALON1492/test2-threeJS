@@ -1,5 +1,5 @@
 import { defineConfig } from "vite";
 
 export default defineConfig({
-    base: "https://test2-threeJS.io/"
+    base: "https://avalon1492.github.io/test2-threeJS"
 })
